@@ -1,0 +1,12 @@
+{
+    "sp1": {
+        "application_id": "<applicationid>",
+        "active": "true",
+        "preexisting": "true"
+    },
+    "sp2": {
+        "application_id": "",
+        "active": "true",
+        "preexisting": "false"
+    }
+}

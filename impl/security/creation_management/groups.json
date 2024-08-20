@@ -1,0 +1,16 @@
+{
+    "group1": {
+        "allow_cluster_create": "true",
+        "allow_instance_pool_create": "true",
+        "databricks_sql_access": "true",
+        "workspace_access": "true",
+        "preexisting": "true"
+    },
+    "group2": {
+        "allow_cluster_create": "false",
+        "allow_instance_pool_create": "false",
+        "databricks_sql_access": "false",
+        "workspace_access": "false",
+        "preexisting": "false"
+    }
+}

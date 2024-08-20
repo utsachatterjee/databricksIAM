@@ -1,0 +1,24 @@
+{
+    "<serviceplrincipal1name>": {
+        "application_id": "<applicationid of sp>",
+        "grant_rules": {
+            "user": [
+                "<groupname or username or serviceprinciple>"
+            ],
+            "manager": [
+                "<groupname or username or serviceprinciple>"
+            ]
+        }
+    },
+    "serviceplrincipal2name": {
+        "application_id": "<applicationid of sp>",
+        "grant_rules": {
+            "user": [
+                "<groupname or username or serviceprinciple>"
+            ],
+            "manager": [
+                "<groupname or username or serviceprinciple>"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "user1": {
+        "name": "Utsa Chatterjee",
+        "active": "true",
+        "preexisting": "false"
+    },
+    "user2": {
+        "name": "Ranadip Paul",
+        "active": "true",
+        "preexisting": "true"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "group1": {
+        "users": [],
+        "service_principals": [
+            "sp1"
+        ],
+        "groups": []
+    },
+    "group2": {
+        "users": [
+            "user1",
+            "user2"
+        ],
+        "service_principals": [
+            "sp1",
+            "sp2"
+        ],
+        "groups": [
+            "group3"
+        ]
+    }
+}
